@@ -58,6 +58,6 @@ title: rhinos website :)
     document.getElementsByClassName("credits left")[0].remove();
     document.getElementsByClassName("credits right")[0].remove();
     document.querySelector("#title > h1:nth-child(1)").innerHTML = '<img alt="main-logo" id="main-logo" style="display: block;margin-left: auto;margin-right: auto;width: 22%;" src="https://github.com/Rhinos-Place/rhinos.place/assets/6531393/ec8ff680-f943-487f-8b37-c0a102d41a90">';
-    document.querySelector("#title > h1:nth-child(2)").innerHTML = '<p style="color: #ddd; font-size: 45px;">home of sexualrhinoceros :)</p>';
+    document.querySelector("#title > p:nth-child(2)").innerHTML = '<p style="color: #ddd; font-size: 38px;">home of sexualrhinoceros :)</p>';
   
 </script>
