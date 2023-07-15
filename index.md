@@ -1,3 +1,7 @@
+---
+title: rhinos website :)
+---
+
 <h5 id="recruit-minor" style="margin-bottom: 15px;color: #737373;">Socials</h5>
 
 ![discord-image](https://user-images.githubusercontent.com/6531393/124417398-e9b1f780-dd0d-11eb-96c6-562c6afd9c32.png) [My Discord](https://discord.gg/rhino)
@@ -54,4 +58,6 @@
     document.getElementsByClassName("credits left")[0].remove();
     document.getElementsByClassName("credits right")[0].remove();
     document.querySelector("#title > h1:nth-child(1)").innerHTML = '<img alt="main-logo" id="main-logo" style="display: block;margin-left: auto;margin-right: auto;width: 22%;" src="https://github.com/Rhinos-Place/rhinos.place/assets/6531393/ec8ff680-f943-487f-8b37-c0a102d41a90">';
+    document.querySelector("#title > h1:nth-child(2)").innerHTML = '<p style="color: #ddd; font-size: 45px;">home of sexualrhinoceros :)</p>';
+  
 </script>
