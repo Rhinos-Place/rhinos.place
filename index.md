@@ -1,3 +1,5 @@
+<h5 id="recruit-minor" style="margin-bottom: 15px;color: #737373;">Socials</h5>
+
 ![discord-image](https://user-images.githubusercontent.com/6531393/124417398-e9b1f780-dd0d-11eb-96c6-562c6afd9c32.png) [My Discord](https://discord.gg/rhino)
 
 ![github_image](https://github.com/Rhinos-Place/rhinos.place/assets/6531393/9f186c36-121b-4607-a127-44d95a0932f2) [Github](https://github.com/srhinos)
@@ -32,10 +34,6 @@
 ![raiderio-image](https://user-images.githubusercontent.com/6531393/124417413-f1719c00-dd0d-11eb-9562-85c802728329.png) [Raider.IO](https://raider.io/characters/us/area-52/Zonesama)
 
 ![warcraftlogs-image](https://user-images.githubusercontent.com/6531393/124417760-b885f700-dd0e-11eb-9415-547ea5f4dc85.png) [WarcraftLogs](https://www.warcraftlogs.com/character/id/67880956)
-
----
-<h5 id="recruit-minor" style="margin-bottom: 15px;color: #737373;">Misc</h5>
-
 
 <style type="text/css">
   blockquote {
