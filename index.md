@@ -55,5 +55,5 @@
     document.getElementById("header").remove();
     document.getElementsByClassName("credits left")[0].remove();
     document.getElementsByClassName("credits right")[0].remove();
-    document.querySelector("#title > h1:nth-child(1)").innerHTML = '<img alt="main-logo" id="main-logo" style="display: block;margin-left: auto;margin-right: auto;width: 22%;" src="https://github.com/Rhinos-Place/rhinos.place/assets/6531393/cd17db9d-a89f-4480-b4e4-78df1579ea5a">';
+    document.querySelector("#title > h1:nth-child(1)").innerHTML = '<img alt="main-logo" id="main-logo" style="display: block;margin-left: auto;margin-right: auto;width: 22%;" src="https://github.com/Rhinos-Place/rhinos.place/assets/6531393/ec8ff680-f943-487f-8b37-c0a102d41a90">';
 </script>
